@@ -3,6 +3,7 @@
 
     <string name="app_name">ForAndroidStudy</string>
     <string name="action_settings">Settings</string>
-    <string name="hello_world">Hello world!</string>
+    <string name="btn_text">保 存</string>
+    <string name="web">http://11111111111111111112222www.baidu.com22222222222222</string>
 
 </resources>
